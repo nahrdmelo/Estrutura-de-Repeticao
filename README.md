@@ -1,4 +1,4 @@
-<h1> ESTRUTURAS DE REPETIÇÃO E ARRAYS COM JAVA </h1>
+<h1> ESTRUTURAS DE REPETIÇÃO COM JAVA </h1>
 
 
 <p>Resolução dos exercícios propostos: <strong>ESTRUTURAS DE REPETIÇÃO E ARRAYS NA LINGUAGEM JAVA</strong>. Realizado no <strong> Bootcamp Santander Code Girls. </strong> 
